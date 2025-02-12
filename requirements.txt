@@ -1,0 +1,4 @@
+Pillow==10.1.0
+timm==0.9.10
+transformers==4.36.0
+sentencepiece==0.1.99
